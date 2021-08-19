@@ -1,0 +1,40 @@
+form.registartion-form {
+    // display: table;
+}
+
+div.registartion-form {
+    display: flex;
+
+}
+
+div.registartion-form > label {
+    width: 200px;
+    text-align: right;
+}
+
+label, input{
+    display: table-cell;
+    margin-bottom: 10px;
+}
+
+.radio-group {
+    display: flex;
+}
+
+.language {
+    display: flex;
+}
+
+.sumbit-button {
+    margin-top: 20px;
+    margin-left: 201px;
+}
+
+.select-country {
+    display: flex;
+    margin-bottom: 20px;
+}
+
+label {
+    padding-right: 10px;
+}
